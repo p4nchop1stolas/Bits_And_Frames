@@ -1,7 +1,7 @@
 const flashcards = [
-  { front: 'What is the process of converting information into the proper form for transmission?', back: 'Encoding' },
-  { front: 'Which step of the communication process is concerned with properly identifying the address of the sender and the receiver?', back: 'Formatting' },
-  { front: 'Which three are components of message timing?', back: 'Flow Control, Access Method, Response Timeout' },
+  { front: 'What is the process of converting information into the proper form for transmission?', back: 'Encoding'},
+  { front: 'Which step of the communication process is concerned with properly identifying the address of the sender and the receiver?', back: 'Formatting'},
+  { front: 'Which three are components of message timing?', back: 'Flow Control, Access Method, Response Timeout'},
   { fornt: 'Which delivery method is used to transmit information to one or more end devices, but not all devices on the network?', back: 'Multicast'},
   { fornt: 'BGP and OSPF are examples of which type of protocol?', back: 'Routing'},
   { fornt: 'Which two protocols are service discovery protocols?', back: 'DNS, DHCP'},
