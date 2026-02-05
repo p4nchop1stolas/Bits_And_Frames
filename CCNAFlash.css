@@ -15,6 +15,7 @@ h1 {
 }
 
 .flashcard {
+  font-size: clamp(12px, 2vw, 18px); /* auto-resize text */
   width: 240px;
   height: 180px;
   background-color: #f2f2f2;
