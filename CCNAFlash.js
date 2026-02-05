@@ -33,7 +33,7 @@ const flashcards = [
   { front: 'What type of communication will send a message to all devices on a local area network?', back: 'Broadcast'},
   { front: 'In computer communication, what is the purpose of message encoding?', back: 'To convert information to the approriate form for transmission'},
   { front: 'Which message delivery option is used when all devices need to receive the same message simultaneously?', back: 'Broadcast'},
-  { front: 'What are two benefits of using a layered network model? (Choose two.)', back: 'It assists in protocol design, it prevents technology in one layer from affecting the other layers'},
+  { front: 'What are two benefits of using a layered network model?', back: 'It assists in protocol design, it prevents technology in one layer from affecting the other layers'},
   { front: 'What is the purpose of protocols in data communications?', back: 'Providing the rules required for a specific type of communication to occur'},
   { front: 'Which logical address is used for delivery of data to a remote network?', back: 'Destination IP address'},
   { front: 'What is the general term that is used to describe a piece of data at any layer of a networking model?', back: 'Protocol Data Unit'},
